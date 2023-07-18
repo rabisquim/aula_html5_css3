@@ -1,7 +1,7 @@
 
 # Material de Estudo HTML/CSS
 
-Um site desenvolvido através de estudo feito pela DIO (Digital Innovation One).
+Um site desenvolvido através de estudo feito pela DIO (Digital Innovation One), utilizando HMTL e CSS.
 
 
 ## Minha Página
